@@ -1,0 +1,10 @@
+.create{
+  background-image: url('./background3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100vh;
+}
+
+.btn{
+  margin: 10px;
+}
